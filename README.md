@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/abdelilah-assioui-684629362/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me 
-Undergraduate computer science student specializing in offensive security, with strengths in networking, consistency, and methodical problem solving. I focus on red teaming and penetration testing to identify attack paths and strengthen defenses. Recent work includes building a Detection Lab and practicing tools such as tcpdump/Wireshark and Kali Linux.
+Undergraduate computer science student specializing in Network and Information Systems Security, with strengths in networking, consistency, and methodical problem solving. I focus on red teaming and penetration testing to identify attack paths and strengthen defenses. Recent work includes building a Detection Lab and practicing tools such as tcpdump/Wireshark and Kali Linux.
 
 I am currently developing a deeper understanding of cybersecurity frameworks, controls, compliance, and asset security, while learning different methods of data integrity, including encryption and hashing. My goal is to help organizations reduce risk by emulating real adversaries, documenting impact, and partnering with defenders to close gaps.
 
