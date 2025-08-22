@@ -37,4 +37,4 @@ I am currently developing a deeper understanding of cybersecurity frameworks, co
 </div>
 
 ## Projects
-- Conduct a security audit
+- <a href="https://github.com/abdelilah-cy/Conduct-a-security-audit">Conduct a security audit</a>
