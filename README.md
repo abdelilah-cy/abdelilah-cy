@@ -6,13 +6,6 @@ Undergraduate computer science student specializing in Network and Information S
 
 I am currently developing a deeper understanding of cybersecurity frameworks, controls, compliance, and asset security, while learning different methods of data integrity, including encryption and hashing. My goal is to help organizations reduce risk by emulating real adversaries, documenting impact, and partnering with defenders to close gaps.
 
-## Skills
-
-| Knowledge Gained                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| - Knowledge of Security Frameworks & Controls<br>- Understanding Compliance Standards<br>- Compliance and Risk Awareness<br>- Report Writing<br>- Analytical Thinking   | Conduct a security audit|
-
-
 ## Tools
 
 #### Network
