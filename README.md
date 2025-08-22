@@ -30,4 +30,5 @@ I am currently developing a deeper understanding of cybersecurity frameworks, co
 </div>
 
 ## Projects
+#### Coursera's Google cybersecurity professional certificate portfolio activities
 - <a href="https://github.com/abdelilah-cy/Conduct-a-security-audit">Conduct a security audit</a>
