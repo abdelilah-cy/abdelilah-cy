@@ -34,4 +34,4 @@ I am currently developing a deeper understanding of cybersecurity frameworks, co
 - <a href="https://github.com/abdelilah-cy/Conduct-a-security-audit">Conduct a security audit</a>
 
 #### Other 
-- <a href="https://github.com/abdelilah-cy/build-a-keylogger-in-kali-linux">build a keylogger(Kali Linux)</a>
+- <a href="https://github.com/abdelilah-cy/build-a-keylogger-in-kali-linux">build a keylogger - Kali Linux</a>
