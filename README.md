@@ -33,5 +33,5 @@ I am currently developing a deeper understanding of cybersecurity frameworks, co
 #### Coursera's Google cybersecurity professional certificate portfolio activities
 - <a href="https://github.com/abdelilah-cy/Conduct-a-security-audit">Conduct a security audit</a>
 
-#### Other 
+#### Kali Linux 
 - <a href="https://github.com/abdelilah-cy/build-a-keylogger-in-kali-linux">build a keylogger - Kali Linux</a>
